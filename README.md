@@ -13,8 +13,6 @@ Install Node JS https://nodejs.org/es/download/
 
 ## GET /user/{id}
 
----
-
 Get user information by user id
 
 ```js
@@ -39,8 +37,6 @@ Get user information by user id
 ```
 
 ## POST /user/
-
----
 
 To create a new user based on POST data (x-www-form-url-encoded)
 

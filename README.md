@@ -45,3 +45,7 @@ To create a new user based on POST data (x-www-form-url-encoded)
 * wishlist: user wishes from 1 to 10 (if there are less than 10 - write 0 where necessary)
 
 ![post](https://github.com/Max-pip/Yalantis-NodeJS/blob/main/yalantis_post.jpg)
+
+## GET /users
+
+Get a list of users

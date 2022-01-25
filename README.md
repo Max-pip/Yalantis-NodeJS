@@ -5,8 +5,8 @@ Install Node JS https://nodejs.org/es/download/
 
 # Usage
 
-* Run npm install to installl dependencies
-* Run npm run start to start the local server
+* Run **npm install** to install dependencies
+* Run **npm run start** to start the local server
 * Load http://localhost:3000. You must see **{"message": "Connected"}**
 
 # API
